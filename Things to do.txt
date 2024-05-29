@@ -1,0 +1,5 @@
+crash course on API- Hands on
+crash course on web scraping- Hands on
+crash course on shell scripting- Hands on 
+
+
